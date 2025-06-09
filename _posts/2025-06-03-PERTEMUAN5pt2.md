@@ -1,6 +1,6 @@
 ---
 title: DIJKSTRA'S ALGORITHM
-date: 2025-05-27
+date: 2025-06-03
 categories: [DESAIN ANALISIS ALGORITMA, DIJKSTRA'S ALGORITHM]
 tags: [daa, algorithm, dijkstra, backtracking]     # TAG names should always be lowercase
 ---
